@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Users/jeana/Documents/Java Projects/dio-trilha-java-basico/project-parent/core/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jeana/Documents/Java Projects/dio-trilha-java-basico/project-parent/core/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'core 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/jeana/Documents/Java Projects/dio-trilha-java-basico/project-parent/core/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'core 1.0-SNAPSHOT API'
+one.digital.innovation
+'C:/Users/jeana/Documents/Java Projects/dio-trilha-java-basico/project-parent/core/src/main/java/one/digital/innovation/App.java'
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\src\main\java = 1674960958896
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\allclasses-frame.html = 1674961944249
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\allclasses-noframe.html = 1674961944250
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\constant-values.html = 1674961944216
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\deprecated-list.html = 1674961944248
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\help-doc.html = 1674961944254
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\index-all.html = 1674961944244
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\index.html = 1674961944251
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\overview-tree.html = 1674961944241
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\package-list = 1674961944196
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\script.js = 1674961944262
+C:\Users\jeana\Documents\Java Projects\dio-trilha-java-basico\project-parent\core\target\site\apidocs\stylesheet.css = 1674961944256
