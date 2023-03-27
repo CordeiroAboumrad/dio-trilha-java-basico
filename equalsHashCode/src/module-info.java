@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jeana
+ *
+ */
+module equalsHashCode {
+}
